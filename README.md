@@ -45,8 +45,4 @@ src/
 └── index.css
 ```
 
-## 👩‍💻 Author
-
-**Sonika S**
-
 
